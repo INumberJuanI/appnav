@@ -28,6 +28,5 @@
 
 body {
   color: var(--clr-foreground);
-  /* background: var(--clr-background); */
-  background: #fff;
+  background: var(--clr-background);
 }

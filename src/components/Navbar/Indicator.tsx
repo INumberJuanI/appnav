@@ -22,7 +22,7 @@ const Indicator = ({ count, width }: Props) => {
         </style>
         <div className={`indicator | 
             absolute top-[-50%] w-[70px] h-[70px] bg-[linear-gradient(45deg,#2196f3,#e91e63)] rounded-full 
-            border-[6px] border-solid border-[#06021b] flex justify-center items-center duration-[.5s] 
+            border-[6px] border-solid border-[#06021b] flex justify-center items-center duration-[1s] 
 
             before:content-[""] before:absolute before:top-[50%] before:left-[-22px] before:w-[20px] before:h-[20px] 
             before:bg-transparent before:rounded-tr-[20px] before:shadow-[1px_-8px_0_#06021b]

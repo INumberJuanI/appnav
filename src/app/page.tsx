@@ -1,12 +1,15 @@
-import Navbar from '@/components/Navbar'
-import Image from 'next/image'
 
 export default function Home() {
     return (<>
-      <Navbar />
-      <main className="flex min-h-screen flex-col items-center justify-between p-24">
-        
-        
+      <main className='max-h-[calc(100%-86px)] overflow-y-auto my-8 max-w-prose mx-auto px-4'>
+
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias cum quam commodi porro nesciunt sed magni. Nam sit itaque pariatur quia, doloremque nihil. Et, consequatur aliquam cumque dolore corrupti neque quis, harum assumenda tempore perferendis necessitatibus totam facere eligendi laudantium reiciendis dicta, architecto voluptatum provident eaque. Repellendus sunt facere eligendi blanditiis iure soluta vitae eveniet ad alias libero dolor quam quaerat magni, quae, est id adipisci rem at qui facilis. Quos tempore porro dolorum amet ducimus provident laboriosam eaque consequatur quia doloremque soluta, esse earum quas quam deleniti quisquam autem alias ea eligendi dicta non aliquam exercitationem nihil. Pariatur, ratione?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias cum quam commodi porro nesciunt sed magni. Nam sit itaque pariatur quia, doloremque nihil. Et, consequatur aliquam cumque dolore corrupti neque quis, harum assumenda tempore perferendis necessitatibus totam facere eligendi laudantium reiciendis dicta, architecto voluptatum provident eaque. Repellendus sunt facere eligendi blanditiis iure soluta vitae eveniet ad alias libero dolor quam quaerat magni, quae, est id adipisci rem at qui facilis. Quos tempore porro dolorum amet ducimus provident laboriosam eaque consequatur quia doloremque soluta, esse earum quas quam deleniti quisquam autem alias ea eligendi dicta non aliquam exercitationem nihil. Pariatur, ratione?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias cum quam commodi porro nesciunt sed magni. Nam sit itaque pariatur quia, doloremque nihil. Et, consequatur aliquam cumque dolore corrupti neque quis, harum assumenda tempore perferendis necessitatibus totam facere eligendi laudantium reiciendis dicta, architecto voluptatum provident eaque. Repellendus sunt facere eligendi blanditiis iure soluta vitae eveniet ad alias libero dolor quam quaerat magni, quae, est id adipisci rem at qui facilis. Quos tempore porro dolorum amet ducimus provident laboriosam eaque consequatur quia doloremque soluta, esse earum quas quam deleniti quisquam autem alias ea eligendi dicta non aliquam exercitationem nihil. Pariatur, ratione?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias cum quam commodi porro nesciunt sed magni. Nam sit itaque pariatur quia, doloremque nihil. Et, consequatur aliquam cumque dolore corrupti neque quis, harum assumenda tempore perferendis necessitatibus totam facere eligendi laudantium reiciendis dicta, architecto voluptatum provident eaque. Repellendus sunt facere eligendi blanditiis iure soluta vitae eveniet ad alias libero dolor quam quaerat magni, quae, est id adipisci rem at qui facilis. Quos tempore porro dolorum amet ducimus provident laboriosam eaque consequatur quia doloremque soluta, esse earum quas quam deleniti quisquam autem alias ea eligendi dicta non aliquam exercitationem nihil. Pariatur, ratione?</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias cum quam commodi porro nesciunt sed magni. Nam sit itaque pariatur quia, doloremque nihil. Et, consequatur aliquam cumque dolore corrupti neque quis, harum assumenda tempore perferendis necessitatibus totam facere eligendi laudantium reiciendis dicta, architecto voluptatum provident eaque. Repellendus sunt facere eligendi blanditiis iure soluta vitae eveniet ad alias libero dolor quam quaerat magni, quae, est id adipisci rem at qui facilis. Quos tempore porro dolorum amet ducimus provident laboriosam eaque consequatur quia doloremque soluta, esse earum quas quam deleniti quisquam autem alias ea eligendi dicta non aliquam exercitationem nihil. Pariatur, ratione?</p>
+      <p>Test</p>
+
       </main>
     </>)
 }
